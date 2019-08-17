@@ -30,3 +30,5 @@ c:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\M
 c:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.dll
 c:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.pdb
 C:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CopyComplete
+c:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
+c:\Users\Andrew\Downloads\_CODE\first-mvc-app\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
